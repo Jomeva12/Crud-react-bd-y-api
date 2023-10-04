@@ -1,2 +1,2 @@
- const api="http://localhost/proyectos/empleados/";
+ const api="http://localhost/proyectos/crud2/empleados/";
  export default api;
